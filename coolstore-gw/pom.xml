@@ -163,7 +163,7 @@
   <repository>
     <id>jboss.fuse</id>
     <name>JBoss Fuse Public</name>
-    <url>https://repo.fusesource.com/nexus/content/groups/public/</url>
+    <url>https://repo.fusesource.com/nexus/content/groups/ea/</url>
   </repository>
   </repositories>
   <pluginRepositories>
