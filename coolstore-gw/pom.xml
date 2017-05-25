@@ -163,14 +163,14 @@
   <repository>
     <id>jboss.fuse</id>
     <name>JBoss Fuse Public</name>
-    <url>https://repo.fusesource.com/nexus/content/groups/ea/</url>
+    <url>https://repository.jboss.org/nexus/content/groups/ea/</url>
   </repository>
   </repositories>
   <pluginRepositories>
   <pluginRepository>
     <id>jboss.fuse</id>
     <name>JBoss Fuse Public</name>
-    <url>https://repo.fusesource.com/nexus/content/groups/ea/</url>
+    <url>https://repository.jboss.org/nexus/content/groups/ea/</url>
   </pluginRepository>
   </pluginRepositories>
 </project>
