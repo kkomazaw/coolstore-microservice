@@ -12,7 +12,7 @@
 
 	<properties>
 	   <spring-boot.version>1.4.1.RELEASE</spring-boot.version>
-    	<fabric8.version>2.2.170.fuse-000011</fabric8.version>
+    	<fabric8.version>2.2.170.redhat-000010</fabric8.version>
     	<fabric8.maven.plugin.version>3.1.80.redhat-000010</fabric8.maven.plugin.version>
     	<maven-compiler-plugin.version>3.6.0</maven-compiler-plugin.version>
     	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -163,14 +163,14 @@
   <repository>
     <id>jboss.fuse</id>
     <name>JBoss Fuse Public</name>
-    <url>https://repository.jboss.org/nexus/content/groups/ea/</url>
+    <url>http://maven.repository.redhat.com/techpreview/all/</url>
   </repository>
   </repositories>
   <pluginRepositories>
   <pluginRepository>
     <id>jboss.fuse</id>
     <name>JBoss Fuse Public</name>
-    <url>https://repository.jboss.org/nexus/content/groups/ea/</url>
+    <url>http://maven.repository.redhat.com/techpreview/all/</url>
   </pluginRepository>
   </pluginRepositories>
 </project>
