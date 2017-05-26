@@ -163,14 +163,14 @@
   <repository>
     <id>jboss.fuse</id>
     <name>JBoss Fuse Public</name>
-    <url>http://maven.repository.redhat.com/techpreview/all/</url>
+    <url>https://maven.repository.redhat.com/ga/</url>
   </repository>
   </repositories>
   <pluginRepositories>
   <pluginRepository>
     <id>jboss.fuse</id>
     <name>JBoss Fuse Public</name>
-    <url>http://maven.repository.redhat.com/techpreview/all/</url>
+    <url>https://maven.repository.redhat.com/ga/</url>
   </pluginRepository>
   </pluginRepositories>
 </project>
